@@ -1,2 +1,0 @@
-cd C:\Users\Veeresha K\Downloads\Eclipse 2022\inetBankingv4
-mvn clean install
